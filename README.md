@@ -1,5 +1,7 @@
 # Maven sample app
 
+## Adding one more comment by sreevidya
+
 ## Installation
 
 - Install Java
