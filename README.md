@@ -1,6 +1,6 @@
 # Maven sample app
 
-## Installation
+## Installation tied up wih Jenkins SCMpull
 
 - Install Java
 - Install Maven
