@@ -10,4 +10,4 @@
 - Run APP: `$ mvn tomcat:run`
   
 
-From master branch
+From version1.4 branch
