@@ -1,5 +1,7 @@
 # Maven sample app
 
+##trying out stash
+
 ## Installation
 
 - Install Java
